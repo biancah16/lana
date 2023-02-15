@@ -1,0 +1,25 @@
+body{
+  background:  url("https://i.pinimg.com/564x/47/85/60/478560ad33cba0baa69c8d295cebec76.jpg") no-repeat fixed center; 
+  background-size: cover;
+   background-blend-mode: lighten;
+   background-color: rgba(250, 255, 255, 0.7);
+
+  position: center;
+}
+h1{
+  text-align:center;
+  color: pink;
+}
+h2{
+  text-align:center;
+  color: lightblue;
+}
+#firstTable{
+  border: 1px solid purple;
+}
+
+table{
+margin-left:auto;
+  margin-right:auto;
+}
+#
